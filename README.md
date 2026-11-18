@@ -76,10 +76,12 @@ client_socket.close()
 ```
 ## OUPUT
 ## server
-<img width="557" height="160" alt="WhatsApp Image 2026-11-18 at 10 14 46 AM" src="https://github.com/user-attachments/assets/26e99d31-5ed5-49e5-a3d7-64d91895cefd" />
+<img width="472" height="205" alt="image" src="https://github.com/user-attachments/assets/3b4983d6-a25d-46e7-89a2-7f6f398b63f2" />
+
 
 ## client
-<img width="527" height="177" alt="WhatsApp Image 2026-11-18 at 10 14 26 AM" src="https://github.com/user-attachments/assets/ebf17a1e-14eb-42cd-a983-c1c54d3a35c8" />
+<img width="545" height="250" alt="image" src="https://github.com/user-attachments/assets/900a83eb-95c3-4e39-9ae3-812c37440105" />
+
 
 
 ## RESULT
